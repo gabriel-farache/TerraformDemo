@@ -1,5 +1,4 @@
 terraform {
-
   cloud {
       organization = "Orchestrator-Demo"
       workspaces {
