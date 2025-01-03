@@ -1,6 +1,6 @@
 terraform {
   cloud {
-      organization = "Orchestrator-Demo"
+      organization = "gfarache"
       workspaces {
         name = "Demo"
       }
